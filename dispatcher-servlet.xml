@@ -1,0 +1,3 @@
+<!-- Para habilitar Upload Files -->
+	<bean id="multipartResolver" class="org.springframework.web.multipart.support.StandardServletMultipartResolver" />
+	
