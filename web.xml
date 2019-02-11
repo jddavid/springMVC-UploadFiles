@@ -1,0 +1,7 @@
+<!-- Para Habilitar Upload Files -->
+		
+		<multipart-config>
+			
+			<location>c:\tmp</location>
+			
+		</multipart-config>
